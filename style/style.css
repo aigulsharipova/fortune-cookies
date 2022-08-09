@@ -1,10 +1,12 @@
+html {
+  text-align: center;
+}
 body {
    background-color: #ffb8d0;
 }
 h1 {
   font-family: 'Oleo Script Swash Caps', cursive;
   font-size: 80px;
-  text-align: center;
 }
 .container {
   padding: 1em;
