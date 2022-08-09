@@ -10,3 +10,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+h1 {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 80px;
+  align-items: center;
+}
