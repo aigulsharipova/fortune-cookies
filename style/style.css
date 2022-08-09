@@ -21,4 +21,5 @@ h1 {
   padding: 20px 50px;
   background-color: rgba(255, 200, 112, 1);
   font-size: 15px; 
+  display: inline-block;
 }

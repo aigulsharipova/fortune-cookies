@@ -22,3 +22,7 @@ const oracle = ["People are naturally attracted to you.",
 "When fear hurts you, conquer it and defeat it!",
 "You will conquer obstacles to achieve success.",
 "Fortune favors the brave."]
+
+button.addEventListener('click', ()=> {
+  let random = oracle[Math.floor(Math.random() * oracle.length)]; 
+})
