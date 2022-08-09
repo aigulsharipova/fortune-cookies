@@ -25,4 +25,5 @@ const oracle = ["People are naturally attracted to you.",
 
 button.addEventListener('click', ()=> {
   let random = oracle[Math.floor(Math.random() * oracle.length)]; 
+  par.textContent = random;
 })
