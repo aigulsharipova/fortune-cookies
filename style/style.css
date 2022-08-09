@@ -1,6 +1,11 @@
 body {
    background-color: #ffb8d0;
 }
+h1 {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 80px;
+  text-align: center;
+}
 .container {
   padding: 1em;
   margin: 1em;
@@ -10,8 +15,10 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
-h1 {
-  font-family: 'Oleo Script Swash Caps', cursive;
-  font-size: 80px;
-  align-items: center;
+#btn {
+  border-radius: 8px;
+  border: 3px solid black;
+  padding: 20px 50px;
+  background-color: rgba(255, 200, 112, 1);
+  font-size: 15px; 
 }
