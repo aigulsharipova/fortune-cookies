@@ -1,18 +1,12 @@
 body {
-  background-image: url(./photo.jpeg);
-  background-color: rgb(4, 4, 4);
-  background-repeat: no-repeat;
+   background-color: #ffb8d0;
 }
 .container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-}
-#btn {
-  background-color: white;
-  border: 3px solid white;
-  border-radius: 20px;
-  padding: 10px;
-  font-size: 20px;
+  padding: 1em;
+  margin: 1em;
+  background-image: url('./fortune-cookie.png');
+  background-size: 700px; 
+  height: 400px; 
+  background-repeat: no-repeat;
+  background-position: center;
 }
