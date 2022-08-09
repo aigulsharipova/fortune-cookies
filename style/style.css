@@ -3,9 +3,16 @@ body {
   background-color: rgb(4, 4, 4);
   background-repeat: no-repeat;
 }
-#container {
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
+}
+#btn {
+  background-color: white;
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 20px;
 }
